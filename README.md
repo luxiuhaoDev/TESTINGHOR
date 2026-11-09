@@ -5,6 +5,8 @@
 **原作者 / 当前发布账号：[`luxiuhaoDev`](AUTHORS.md)**  
 **未经授权，禁止将本项目的官方名称、截图、视频、美术和官方发布包用于商业盈利、冒充官方或付费倒卖。** 源代码中 GPLv3 部分的商业分发边界见 [商业使用说明](COMMERCIAL_USE.md)。
 
+#PS：真不我写的
+
 [![build](https://github.com/luxiuhaoDev/McPetOverlay/actions/workflows/build.yml/badge.svg)](.github/workflows/build.yml)
 
 ## 项目简介
