@@ -2,10 +2,10 @@
 
 > 面向 Minecraft Java 1.8.9 的 Windows 外部桌面宠物、只读状态可视化、HUD 与三模式设置工作台。
 
-**原作者 / 当前发布账号：[`luxiuhaoDev`](AUTHORS.md)**  
+**当前发布账号：[`luxiuhaoDev`](AUTHORS.md)**  
 **未经授权，禁止将本项目的官方名称、截图、视频、美术和官方发布包用于商业盈利、冒充官方或付费倒卖。** 源代码中 GPLv3 部分的商业分发边界见 [商业使用说明](COMMERCIAL_USE.md)。
 
-<h2>#PS：不是我主要写的</h2>
+<h2>#PS：不是我主要写的/代发</h2>
 
 [![build](https://github.com/luxiuhaoDev/McPetOverlay/actions/workflows/build.yml/badge.svg)](.github/workflows/build.yml)
 
